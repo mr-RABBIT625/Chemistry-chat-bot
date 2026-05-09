@@ -1,0 +1,200 @@
+atom:Atom is the smallest unit of matter
+molecule:Molecule is made of two or more atoms chemically bonded
+element:Element is a pure substance made of one type of atom
+compound:Compound is formed by chemical combination of elements
+mixture:Mixture contains substances physically combined
+acid:Acids have pH less than 7
+base:Bases have pH greater than 7
+salt:Salt is formed by reaction of acid and base
+ph:PH measures acidity or basicity of a solution
+electron:Electron is a negatively charged particle
+proton:Proton is a positively charged particle
+neutron:Neutron has no charge
+nucleus:Nucleus is the central part of an atom
+isotope:Isotopes have same atomic number but different mass number
+isobar:Isobars have same mass number but different atomic numbers
+cation:Cation is a positively charged ion
+anion:Anion is a negatively charged ion
+oxidation:Oxidation is loss of electrons
+reduction:Reduction is gain of electrons
+redox:Redox reaction involves oxidation and reduction together
+electrolysis:Electrolysis uses electricity to break compounds
+covalent bond:Covalent bond involves sharing of electrons
+ionic bond:Ionic bond involves transfer of electrons
+metallic bond:Metallic bond is attraction between metal ions and free electrons
+valency:Valency is combining capacity of an element
+molarity:Molarity is moles of solute per litre of solution
+molality:Molality is moles of solute per kilogram of solvent
+mole:One mole contains 6.022 × 10^23 particles
+avogadro number:Avogadro number is 6.022 × 10^23
+periodic table:Periodic table arranges elements by atomic number
+group:Vertical columns in periodic table are called groups
+period:Horizontal rows in periodic table are called periods
+alkali metals:Group 1 elements are alkali metals
+halogens:Group 17 elements are halogens
+noble gases:Group 18 elements are noble gases
+hydrogen:Hydrogen is the lightest element
+oxygen:Oxygen supports combustion
+nitrogen:Nitrogen forms about 78 percent of air
+carbon:Carbon forms large number of compounds
+diamond:Diamond is an allotrope of carbon
+graphite:Graphite conducts electricity
+allotrope:Allotropes are different forms of same element
+hydrocarbon:Hydrocarbons contain carbon and hydrogen
+alkane:Alkanes are saturated hydrocarbons
+alkene:Alkenes contain double bond
+alkyne:Alkynes contain triple bond
+benzene:Benzene is an aromatic hydrocarbon
+polymer:Polymer is made of repeating small units
+monomer:Monomer is a small molecule forming polymer
+enzyme:Enzymes are biological catalysts
+catalyst:Catalyst changes rate of reaction without being consumed
+reaction rate:Reaction rate is speed of chemical reaction
+equilibrium:Equilibrium is state where forward and backward reactions are equal
+exothermic:Exothermic reaction releases heat
+endothermic:Endothermic reaction absorbs heat
+photosynthesis:Plants prepare food using sunlight
+respiration:Respiration releases energy from food
+osmosis:Osmosis is movement of solvent through semipermeable membrane
+diffusion:Diffusion is movement from higher to lower concentration
+surface tension:Surface tension is property of liquid surface
+boiling point:Boiling point is temperature where liquid changes to gas
+melting point:Melting point is temperature where solid changes to liquid
+evaporation:Evaporation is slow conversion of liquid into vapor
+condensation:Condensation is gas changing into liquid
+sublimation:Sublimation is direct solid to gas conversion
+h2o:Water formula is H2O
+co2:Carbon dioxide formula is CO2
+nacl:Sodium chloride formula is NaCl
+hcl:Hydrochloric acid formula is HCl
+h2so4:Sulfuric acid formula is H2SO4
+naoh:Sodium hydroxide formula is NaOH
+nh3:Ammonia formula is NH3
+ch4:Methane formula is CH4
+c2h5oh:Ethanol formula is C2H5OH
+glucose:Glucose formula is C6H12O6
+boyles law:Boyle's law states that pressure is inversely proportional to volume at constant temperature
+charles law:Charles law states that volume is directly proportional to temperature at constant pressure
+gay lussac law:Gay Lussac law states that pressure is directly proportional to temperature at constant volume
+avogadro law:Avogadro law states that equal volumes of gases contain equal number of molecules
+ideal gas equation:Ideal gas equation is PV = nRT
+daltons law:Daltons law states that total pressure equals sum of partial pressures
+henrys law:Henrys law states that solubility of gas in liquid is proportional to pressure
+raoults law:Raoults law states that vapor pressure is proportional to mole fraction
+grahams law:Grahams law states that rate of diffusion is inversely proportional to square root of molar mass
+first law thermodynamics:First law of thermodynamics states that energy can neither be created nor destroyed
+second law thermodynamics:Second law of thermodynamics states that entropy of universe increases
+third law thermodynamics:Third law of thermodynamics states that entropy becomes zero at absolute zero
+enthalpy:Enthalpy is total heat content of a system
+entropy:Entropy measures randomness of system
+gibbs energy:Gibbs free energy is given by G = H - TS
+spontaneous reaction:Spontaneous reaction occurs naturally without external energy
+activation energy:Activation energy is minimum energy required for reaction
+arrhenius equation:Arrhenius equation is k = Ae^-Ea/RT
+le chatelier principle:If equilibrium is disturbed system shifts to oppose change
+equilibrium constant:Equilibrium constant is ratio of product concentration to reactant concentration
+ph formula:PH = -log[H+]
+pkw:PKw of water is 14 at 25 degree Celsius
+buffer solution:Buffer solution resists change in pH
+common ion effect:Common ion effect decreases ionization of weak electrolyte
+faradays first law:Mass deposited is proportional to quantity of electricity passed
+faradays second law:Mass deposited depends on equivalent weight
+conductance:Conductance is reciprocal of resistance
+molar conductance:Molar conductance increases with dilution
+specific conductance:Specific conductance decreases with dilution
+nernst equation:Nernst equation relates electrode potential with concentration
+electrode potential:Electrode potential measures tendency to gain or lose electrons
+electrochemical cell:Electrochemical cell converts chemical energy into electrical energy
+galvanic cell:Galvanic cell generates electricity from spontaneous reaction
+electrolytic cell:Electrolytic cell uses electricity for non spontaneous reaction
+oxidation number:Oxidation number represents apparent charge on atom
+fajan rule:Fajan rule predicts covalent character in ionic compounds
+vsepr theory:VSEPR theory predicts molecular shape
+hybridization:Hybridization is mixing of atomic orbitals
+sigma bond:Sigma bond is formed by head on overlap
+pi bond:Pi bond is formed by sideways overlap
+bond angle:Bond angle is angle between bonds in molecule
+bond length:Bond length is distance between nuclei of bonded atoms
+molecular orbital theory:Molecular orbital theory explains bonding using molecular orbitals
+pauli exclusion principle:No two electrons can have same set of quantum numbers
+aufbau principle:Electrons fill lower energy orbitals first
+hunds rule:Electrons occupy orbitals singly before pairing
+de broglie equation:De Broglie equation is lambda = h/mv
+heisenberg uncertainty principle:Position and momentum cannot both be measured exactly
+bohrs model:Electrons revolve around nucleus in fixed orbits
+rydberg equation:Rydberg equation explains hydrogen spectrum
+photoelectric effect:Photoelectric effect is emission of electrons by light
+beer lambert law:Absorbance is proportional to concentration and path length
+colloids:Colloids have particle size between solution and suspension
+tyndall effect:Tyndall effect is scattering of light by colloids
+brownian motion:Brownian motion is zig zag motion of particles
+osmosis pressure:Osmotic pressure is pressure needed to stop osmosis
+van der waals equation:Van der Waals equation corrects ideal gas equation
+critical temperature:Critical temperature is highest temperature for liquefaction
+critical pressure:Critical pressure is minimum pressure needed for liquefaction
+surface chemistry:Surface chemistry studies phenomena on surfaces
+adsorption:Adsorption is accumulation on surface
+absorption:Absorption is uniform distribution throughout material
+freundlich adsorption isotherm:Empirical relation for adsorption on surface
+langmuir adsorption isotherm:Assumes monolayer adsorption on surface
+rate law:Rate law relates reaction rate with concentration
+order of reaction:Order of reaction is sum of powers of concentration terms
+half life:Half life is time for half reactant to decompose
+collision theory:Reaction occurs when particles collide effectively
+transition state:The high energy intermediate during reaction
+hess law:Total enthalpy change is independent of path
+kirchhoff law:Change in enthalpy depends on temperature
+bond dissociation energy:Energy required to break bond
+lattice energy:Energy released when ionic crystal forms
+hydration energy:Energy released when ions dissolve in water
+ppm formula:PPM = (mass of solute / mass of solution) × 10^6
+molarity formula:Molarity = (moles of solute / volume of solution in litres)
+molality formula:Molality = (moles of solute / mass of solvent in kg)
+normality formula:Normality = (gram equivalents / volume in litres)
+density formula:Density = (mass / volume)
+mole formula:Number of moles = (given mass / molar mass)
+percentage composition formula:Percentage composition = (mass of element / molar mass) × 100
+ph formula:pH = -log([H+])
+poh formula:pOH = -log([OH-])
+kw formula:Kw = ([H+][OH-])
+heat formula:q = (mcΔT)
+enthalpy formula:ΔH = (Hproducts - Hreactants)
+gibbs free energy formula:ΔG = (ΔH - TΔS)
+work formula:w = (-PΔV)
+internal energy formula:ΔU = (q + w)
+first law formula:ΔU = (q - w)
+arrhenius equation:k = (Ae^(-Ea/RT))
+rate law formula:Rate = (k[A]^m[B]^n)
+half life first order:t1/2 = (0.693 / k)
+equilibrium constant formula:Kc = ([Products] / [Reactants])
+reaction quotient formula:Qc = ([Products] / [Reactants])
+osmotic pressure formula:π = (CRT)
+bohr radius formula:rn = (n²a0 / Z)
+rydberg equation:(1/λ) = R((1/n1²) - (1/n2²))
+de broglie equation:λ = (h/mv)
+kinetic energy formula:KE = (1/2 mv²)
+electrolysis formula:m = (Zit/F)
+nernst equation:E = E° - ((0.0591/n) logQ)
+conductance formula:G = (1/R)
+resistance formula:R = (ρl/A)
+specific conductance formula:κ = ((1/R) × (l/A))
+molar conductance formula:Λm = ((κ × 1000) / M)
+coulomb law formula:F = (kq1q2/r²)
+bond order formula:Bond order = (1/2)(bonding electrons - antibonding electrons)
+beer lambert law:A = (εlc)
+henrys law formula:p = (KHx)
+raoults law formula:Psolution = (Xsolvent × P°solvent)
+van der waals equation:(P + (an²/V²))(V - nb) = (nRT)
+boyles law formula:(P1V1) = (P2V2)
+charles law formula:(V1/T1) = (V2/T2)
+gay lussac law formula:(P1/T1) = (P2/T2)
+combined gas law formula:(P1V1/T1) = (P2V2/T2)
+grahams law formula:(r1/r2) = √(M2/M1)
+dilution formula:(M1V1) = (M2V2)
+mass percentage formula:Mass percentage = (mass of solute / mass of solution) × 100
+entropy formula:ΔS = (q/T)
+efficiency formula:Efficiency = (useful energy output / total energy input) × 100
+frequency formula:ν = (c/λ)
+energy formula:E = (hν)
+plancks equation:E = (hν)
+einstein equation:E = (mc²)
